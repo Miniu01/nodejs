@@ -1,0 +1,3 @@
+przyklad ( pobieranie danych z klawiatury ) + dokumentacja
+
+projekt kalkulator node w konsoli
